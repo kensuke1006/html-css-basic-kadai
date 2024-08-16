@@ -5,7 +5,7 @@ html {
 body {
   font-family: "arial", "meiryo", sans-serif;
   text-align:center;
-  
+
 }
 .decoration{
   font-size: 2rem; 
@@ -18,4 +18,11 @@ body {
 }
 .text-pink {
  color: rgb(255,192,203);
+}
+#basic p {
+  font-weight: bold;
+}
+
+#basic h2 {
+  font-weight: bold;
 }
